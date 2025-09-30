@@ -1,4 +1,15 @@
 # Markdown Example
+---
+title: "Drugi artykuł"
+tags: ["hashnode", "tutorial"]
+cover: "../images/sample.png"
+---
+
+# Cześć 👋
+
+To mój drugi wpis!
+
+
 
 This is a simple markdown example file.
 
