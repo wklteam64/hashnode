@@ -1,3 +1,13 @@
+---
+title: "Tytuł artykułu"
+slug: "moj-unikalny-slug"
+tags: tag1, tag2
+domain: twojadomena.hashnode.dev
+
+---
+
+
+
 # Markdown Example
 
 This is a simple markdown example file.

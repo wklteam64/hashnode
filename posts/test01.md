@@ -1,8 +1,10 @@
 ---
-title: "Drugi artykuł"
-tags: ["hashnode", "tutorial"]
-cover: "../images/sample.png"
----
+title: "Tytuł artykułu"
+slug: "moj-unikalny-slug"
+tags: tag1, tag2
+domain: twojadomena.hashnode.dev
+cover: https://cdn.hashnode.com/…   # jeśli masz obrazek okładkowy
+------
 
 # Cześć 👋
 
