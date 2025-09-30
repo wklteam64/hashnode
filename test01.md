@@ -1,8 +1,8 @@
 ---
-title: "Tytuł artykułu"
-slug: "moj-unikalny-slug"
+title: "test01"
+slug: "github-slugger"
 tags: tag1, tag2
-domain: twojadomena.hashnode.dev
+domain: wklteam64.hashnode.dev
 
 ---
 
