@@ -1,4 +1,3 @@
-# Markdown Example
 ---
 title: "Drugi artykuł"
 tags: ["hashnode", "tutorial"]
