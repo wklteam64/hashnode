@@ -45,5 +45,4 @@ void main(void)
 
 }
 
-
-![promyk](images/36-multiobudowa-6753241cb0c97.webp)
+![promyk](../images/36-multiobudowa-6753241cb0c97.webp)
